@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 593.07 697.12">
+  <g id="LeftBlueberry">
+    <circle id="LB_Color1" data-name="LB Color1" cx="208.26" cy="549.86" r="71.72" style="fill: #3e54a4;"/>
+    <circle id="LB_Color2" data-name="LB Color2" cx="195.19" cy="538.72" r="61.2" style="fill: #4981c2;"/>
+    <ellipse id="LB_Color3" data-name="LB Color3" cx="169.68" cy="525.51" rx="24.8" ry="21.53" transform="translate(-337.96 308.14) rotate(-48.92)" style="fill: #81bae5;"/>
+    <circle id="Outline1" cx="208.26" cy="549.86" r="80.44" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 25px;"/>
+  </g>
+  <g id="RightBlueberry">
+    <circle id="RB_Color1" data-name="RB Color1" cx="416.92" cy="481.56" r="71.72" style="fill: #3e54a4;"/>
+    <circle id="RB_Color2" data-name="RB Color2" cx="406.31" cy="469.41" r="61.2" style="fill: #4981c2;"/>
+    <ellipse id="RB_Color3" data-name="RB Color3" cx="383.31" cy="445.96" rx="24.8" ry="21.53" transform="translate(-204.73 441.9) rotate(-48.92)" style="fill: #81bae5;"/>
+    <circle id="Outline1-2" data-name="Outline1" cx="416.92" cy="481.56" r="80.44" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 25px;"/>
+  </g>
+  <g id="TopBlueberry">
+    <circle id="TB_Color1" data-name="TB Color1" cx="264.76" cy="385.28" r="71.72" style="fill: #3e54a4;"/>
+    <circle id="TB_Color2" data-name="TB Color2" cx="256.38" cy="375.82" r="61.2" style="fill: #4981c2;"/>
+    <ellipse id="TB_Color3" data-name="TB Color3" cx="233.38" cy="352.38" rx="24.8" ry="21.53" transform="translate(-185.6 296.78) rotate(-48.92)" style="fill: #81bae5;"/>
+    <circle id="Outline1-3" data-name="Outline1" cx="264.76" cy="385.28" r="80.44" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 25px;"/>
+  </g>
+  <g id="BlueberryStem">
+    <g id="RightStem">
+      <path d="M203.17,297.27c55.9-35.4,124.13-31.23,165.14,6.61,38.78,35.78,38.22,87.82,37.95,97.23" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 25px;"/>
+    </g>
+    <path id="LeftStem" d="M146.68,261.62c-11.21,14.48-37.28,52.21-40.95,107.01-4.75,70.72,31.11,120.6,40.95,133.43" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 25px;"/>
+    <path id="TopStem" d="M208.26,17.22c-75.5,61.95-100.93,155.14-68.42,221.94,23.07,47.4,68.82,68.19,87.19,75.3" style="fill: none; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 25px;"/>
+  </g>
+</svg>
