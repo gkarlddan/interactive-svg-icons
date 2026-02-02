@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 593.07 697.12">
+  <g id="Stem">
+    <line id="Stick" x1="137.12" y1="36.27" x2="220.82" y2="150.49" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 25px;"/>
+    <g id="LeafColor">
+      <path d="M304.3,32.35c-6.06-12.53-36.8-12.12-68.66.91-31.86,13.03-52.78,33.75-46.72,46.28,6.06,12.53,36.8,12.12,68.66-.91,31.86-13.03,52.78-33.75,46.72-46.28Z" style="fill: #9ccb3b;"/>
+    </g>
+    <path id="Leaf" d="M178.36,84.4c8.98,18.04,46.72,19.89,84.29,4.13s60.75-43.15,51.77-61.19c-8.98-18.04-46.72-19.89-84.29-4.13-37.57,15.76-60.75,43.15-51.77,61.19Z" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 25px;"/>
+  </g>
+  <g id="Orange">
+    <circle id="Color_2" data-name="Color 2" cx="296.54" cy="400.59" r="273.74" style="fill: #fbac1c;"/>
+    <ellipse id="Color_1" data-name="Color 1" cx="193.39" cy="319.39" rx="229.03" ry="139.98" transform="translate(-178.69 288.37) rotate(-54.04)" style="fill: #febe4b;"/>
+    <circle id="Outline" cx="296.54" cy="400.59" r="284.04" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 25px;"/>
+  </g>
+</svg>
