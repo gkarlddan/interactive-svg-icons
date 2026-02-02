@@ -1,0 +1,117 @@
+
+body {
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.hidden { 
+    display: none; 
+}
+
+#icon-container {
+    display: flex;
+    justify-content: center;
+}
+
+#icon-container div {
+    width: 400px;
+}
+
+/* -- BlueBerries -- */
+
+
+/* Left Blueberry */
+#LeftBlueberry { 
+    transition: all 0.5s ease; 
+    /* ensures the transform origin is calculated relative to the element’s bounding box */
+    transform-box: fill-box;
+    /* tells it to rotate around its own center. */
+    transform-origin: center;
+}
+
+#LeftBlueberry:hover { 
+    transform: rotate(-45deg); 
+}
+
+#LeftBlueberry {
+    transform-box: fill-box;
+    transform-origin: center;
+}
+
+/* Right Blueberry */
+#RightBlueberry { 
+    transition: all 0.5s ease; 
+    /* ensures the transform origin is calculated relative to the element’s bounding box */
+    transform-box: fill-box;
+    /* tells it to rotate around its own center. */
+    transform-origin: center;
+}
+
+#RightBlueberry:hover { 
+    transform: rotate(-45deg); 
+}
+
+#RightBlueberry {
+    transform-box: fill-box;
+    transform-origin: center;
+}
+
+/* Top Blueberry */
+#TopBlueberry { 
+    transition: all 0.5s ease; 
+    /* ensures the transform origin is calculated relative to the element’s bounding box */
+    transform-box: fill-box;
+    /* tells it to rotate around its own center. */
+    transform-origin: center;
+}
+
+#TopBlueberry:hover { 
+    transform: rotate(-45deg); 
+}
+
+#TopBlueberry {
+    transform-box: fill-box;
+    transform-origin: center;
+}
+
+/* -- Orange -- */
+
+#Orange { 
+    transition: all 0.5s ease; 
+    /* ensures the transform origin is calculated relative to the element’s bounding box */
+    transform-box: fill-box;
+    /* tells it to rotate around its own center. */
+    transform-origin: center;
+}
+
+#Orange:hover { 
+    transform: rotate(15deg); 
+}
+
+#Orange {
+    transform-box: fill-box;
+    transform-origin: center;
+}
+
+/* -- Watermelon -- */
+
+#WatermelonSlice { 
+    transition: all 0.5s ease; 
+    /* ensures the transform origin is calculated relative to the element’s bounding box */
+    transform-box: fill-box;
+    /* tells it to rotate around its own center. */
+    transform-origin: center;
+}
+
+#WatermelonSlice:hover { 
+    transform: rotate(15deg); 
+}
+
+#WatermelonSlice {
+    transform-box: fill-box;
+    transform-origin: center;
+}
